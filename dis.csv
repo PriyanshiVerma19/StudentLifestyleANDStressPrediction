@@ -1,0 +1,9 @@
+Temp,Rainfall,NDVI,Soil_Moisture,Risk
+32,200,0.45,0.30,Low
+40,100,0.30,0.20,High
+28,300,0.60,0.50,Low
+35,,0.40,0.25,Medium
+38,150,,0.22,High
+30,250,0.55,,Low
+
+
